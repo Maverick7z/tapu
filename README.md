@@ -1,7 +1,9 @@
 # tapu
-TAPU is only 200 getting data </p>
+If you use the "Tapu" Python file, you can only fetch 200 data entries. </p>
 
-It uses a PTAPU proxy so it can retrieve more data in the database
+The "Ptapu" file allows you to use proxies, which enables you to perform a significantly higher number of queries.
+
+Note: The country doesn't matter for the proxy, but using proxies from countries close to Turkey is more important in terms of speed.
 </p>
 Example outpod:
 
